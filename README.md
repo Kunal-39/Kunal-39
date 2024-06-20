@@ -2,7 +2,7 @@
 <h3 align="center">⚡️ A passionate frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-39&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-39" /> </p>
-- 📖 **I'am currently learning frontend Development.**
+- 📖 **I'am currently learning frontend Development.**<br>
 - 📧 **@kunal074518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
